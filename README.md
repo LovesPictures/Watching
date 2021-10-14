@@ -2,17 +2,17 @@
 
 A flick book format
 
-##contributors
+## contributors
 
 **Version 1.0.0**
 
 ##Learning Objectives
 You will be employer-competitive if you are able to:
 
-##Helpful Links
+## Helpful Links
 https://lovespictures.com/watching
 
-##Made with 
+## Made with 
 Professing.org
 HTML
 CSS
