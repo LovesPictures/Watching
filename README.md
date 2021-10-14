@@ -7,14 +7,13 @@ A new media project using facial detection. see artist statment for more details
 ## Project Objectives
 To tell stories from data, deliverered when someone is looking at the machine.
 
-## contributors
+## Contributors
 Judith Ricketts
 
 
 ## Helpful Links
 
-* Made using Processing.
-* 
+* Interactive work made using Processing.* 
 * [Processing.org](https://processing.org/)  
 * Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping
 
