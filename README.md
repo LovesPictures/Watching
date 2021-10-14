@@ -1,8 +1,7 @@
 # Watching, surveillance, bias, control. - Posters 
 
-A flick book format
 A new media project using facial detection. see artist statment for more details; 
-[Watching Artist Statement](https://lovespictures.com/watching) on my website.
+[Watching Artist Statement](https://lovespictures.com/watching) on my website.  This is a flick book example of one of the evolving images in poster format.
 
 ## Project Objectives
 To tell stories from data, deliverered when someone is looking at the machine.
