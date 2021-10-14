@@ -1,8 +1,8 @@
 # Watching, surveillance, bias, control. - Posters 
 
 A flick book format
-A new media project using facial detection. see artist statment for miore details; 
-[Artist Statement](https://lovespictures.com/watching)
+A new media project using facial detection. see artist statment for more details; 
+[Watching Artist Statement](https://lovespictures.com/watching) on my website.
 
 ## contributors
 Judith Ricketts
